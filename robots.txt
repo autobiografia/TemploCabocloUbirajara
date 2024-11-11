@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://templocabocloubirajara.com.br/sitemap.xml
